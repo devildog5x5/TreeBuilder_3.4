@@ -1,0 +1,1207 @@
+[Root]
+Most Recent Package=TreeBuilder34
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=K:\Development\TreeBldrv3.2\TreeBldr3.2
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+k:\development\treebldrv3\legacylogin.dll=
+k:\development\treebldrv3\ice.exe=
+k:\development\treebldrv3\ice_help.txt=
+k:\development\treebldrv3\icenativ.dll=
+k:\development\treebldrv3\ldaphdlr.dll=
+k:\development\treebldrv3\ldapsdk.dll=
+k:\development\treebldrv3\ldapssl.dll=
+k:\development\treebldrv3\ldapx.dll=
+k:\development\treebldrv3\ldif.dll=
+k:\development\treebldrv3\ice.cfg=
+k:\development\treebldrv3\readme.txt=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\SYSTEM32\comdlg32.ocx=Yes
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCTL32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCT232.OCX=Yes
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINNT\SYSTEM32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+K:\Development\TreeBldrv3\legacylogin.dll=Yes
+K:\Development\TreeBldrv3\ice.exe=Yes
+K:\Development\TreeBldrv3\ICE_help.txt=Yes
+K:\Development\TreeBldrv3\icenativ.dll=Yes
+K:\Development\TreeBldrv3\ldaphdlr.dll=Yes
+K:\Development\TreeBldrv3\ldapsdk.dll=Yes
+K:\Development\TreeBldrv3\ldapssl.dll=Yes
+K:\Development\TreeBldrv3\ldapx.dll=Yes
+K:\Development\TreeBldrv3\ldif.dll=Yes
+K:\Development\TreeBldrv3\ice.cfg=Yes
+K:\Development\TreeBldrv3\Readme.txt=Yes
+K:\Development\TreeBldrv3.2\TreeBldrv3.exe=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+K:\Development\TreeBldrv3\TreeBldrv3.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCT232.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+K:\Development\TreeBldrv3\legacylogin.dll=$(WinSysPath)
+K:\Development\TreeBldrv3\ice.exe=$(AppPath)
+K:\Development\TreeBldrv3\ICE_help.txt=$(AppPath)
+K:\Development\TreeBldrv3\icenativ.dll=$(AppPath)
+K:\Development\TreeBldrv3\ldaphdlr.dll=$(AppPath)
+K:\Development\TreeBldrv3\ldapsdk.dll=$(WinSysPath)
+K:\Development\TreeBldrv3\ldapssl.dll=$(WinSysPath)
+K:\Development\TreeBldrv3\ldapx.dll=$(WinSysPath)
+K:\Development\TreeBldrv3\ldif.dll=$(AppPath)
+K:\Development\TreeBldrv3\ice.cfg=$(AppPath)
+C:\WINNT\SYSTEM32\Msmask32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+K:\Development\TreeBldrv3\Readme.txt=$(AppPath)
+K:\Development\TreeBldrv3.2\TreeBldrv3.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+K:\Development\TreeBldrv3\TreeBldrv3.exe=No
+K:\Development\TreeBldrv3\ice.exe=No
+K:\Development\TreeBldrv3\ICE_help.txt=No
+K:\Development\TreeBldrv3\icenativ.dll=No
+K:\Development\TreeBldrv3\ldaphdlr.dll=No
+K:\Development\TreeBldrv3\ldif.dll=No
+K:\Development\TreeBldrv3\ice.cfg=No
+K:\Development\TreeBldrv3\Readme.txt=No
+K:\Development\TreeBldrv3.2\TreeBldrv3.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=TreeBldrv3
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=TreeBldrv3
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|TreeBldrv3]
+Icon1=TreeBldrv3.exe
+Title1=TreeBldrv3
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=K:\Development\TreeBldrv3.2\TreeBldr3.2
+ProjectFolder=K:\Development\TreeBldrv3.2
+ServerSideCab=
+File1=K:\Development\TreeBldrv3.2\TreeBldr3.2\setup.exe
+File2=K:\Development\TreeBldrv3.2\TreeBldr3.2\Setup.Lst
+File3=K:\Development\TreeBldrv3.2\TreeBldr3.2\TreeBldrv3.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=K:\Development\TreeBldrv3.2\Package
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 2|Files Added]
+K:\Development\TreeBldrv3.2\ice.exe=
+K:\Development\TreeBldrv3.2\legacylogin.dll=
+K:\Development\TreeBldrv3.2\ldaphdlr.dll=
+K:\Development\TreeBldrv3.2\ldapsdk.dll=
+K:\Development\TreeBldrv3.2\ldapssl.dll=
+K:\Development\TreeBldrv3.2\ldapx.dll=
+K:\Development\TreeBldrv3.2\ldif.dll=
+K:\Development\TreeBldrv3.2\icenativ.dll=
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+K:\Development\TreeBldrv3.2\TreeBldrv3.exe=Yes
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\SYSTEM32\comdlg32.ocx=Yes
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCTL32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCT232.OCX=Yes
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINNT\SYSTEM32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+K:\Development\TreeBldrv3.2\ice.exe=Yes
+K:\Development\TreeBldrv3.2\legacylogin.dll=Yes
+K:\Development\TreeBldrv3.2\ldaphdlr.dll=Yes
+K:\Development\TreeBldrv3.2\ldapsdk.dll=Yes
+K:\Development\TreeBldrv3.2\ldapssl.dll=Yes
+K:\Development\TreeBldrv3.2\ldapx.dll=Yes
+K:\Development\TreeBldrv3.2\ldif.dll=Yes
+K:\Development\TreeBldrv3.2\icenativ.dll=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+K:\Development\TreeBldrv3.2\TreeBldrv3.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCT232.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+K:\Development\TreeBldrv3.2\ice.exe=$(AppPath)
+K:\Development\TreeBldrv3.2\legacylogin.dll=$(WinSysPath)
+K:\Development\TreeBldrv3.2\ldaphdlr.dll=$(AppPath)
+K:\Development\TreeBldrv3.2\ldapsdk.dll=$(WinSysPath)
+K:\Development\TreeBldrv3.2\ldapssl.dll=$(WinSysPath)
+K:\Development\TreeBldrv3.2\ldapx.dll=$(WinSysPath)
+K:\Development\TreeBldrv3.2\ldif.dll=$(AppPath)
+K:\Development\TreeBldrv3.2\icenativ.dll=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+K:\Development\TreeBldrv3.2\TreeBldrv3.exe=No
+K:\Development\TreeBldrv3.2\ice.exe=No
+K:\Development\TreeBldrv3.2\ldaphdlr.dll=No
+K:\Development\TreeBldrv3.2\ldif.dll=No
+K:\Development\TreeBldrv3.2\icenativ.dll=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=TreeBldrv3
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=TreeBldrv3
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|TreeBldrv3]
+Icon1=TreeBldrv3.exe
+Title1=TreeBldrv3
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=K:\Development\TreeBldrv3.2\Package
+ProjectFolder=K:\Development\TreeBldrv3.2
+ServerSideCab=
+File1=K:\Development\TreeBldrv3.2\Package\setup.exe
+File2=K:\Development\TreeBldrv3.2\Package\Setup.Lst
+File3=K:\Development\TreeBldrv3.2\Package\TreeBldrv3.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\Development\TreeBldrv3.3\Package
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 3|Files Added]
+H:\Development\TreeBldrv3.3\ice.exe=
+H:\Development\TreeBldrv3.3\legacylogin.dll=
+H:\Development\TreeBldrv3.3\ldaphdlr.dll=
+H:\Development\TreeBldrv3.3\ldapsdk.dll=
+H:\Development\TreeBldrv3.3\ldapssl.dll=
+H:\Development\TreeBldrv3.3\ldapx.dll=
+H:\Development\TreeBldrv3.3\ldif.dll=
+H:\Development\TreeBldrv3.3\icenativ.dll=
+H:\Development\TreeBldrv3.3\ice.cfg=
+
+[Package|Standard Setup Package 3|Files Removed]
+
+[Package|Standard Setup Package 3|Files In Project]
+H:\Development\TreeBldrv3.3\TreeBldrv33.exe=Yes
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\SYSTEM32\comdlg32.ocx=Yes
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCTL32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCT232.OCX=Yes
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINNT\SYSTEM32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+H:\Development\TreeBldrv3.3\ice.exe=Yes
+H:\Development\TreeBldrv3.3\legacylogin.dll=Yes
+H:\Development\TreeBldrv3.3\ldaphdlr.dll=Yes
+H:\Development\TreeBldrv3.3\ldapsdk.dll=Yes
+H:\Development\TreeBldrv3.3\ldapssl.dll=Yes
+H:\Development\TreeBldrv3.3\ldapx.dll=Yes
+H:\Development\TreeBldrv3.3\ldif.dll=Yes
+H:\Development\TreeBldrv3.3\icenativ.dll=Yes
+H:\Development\TreeBldrv3.3\ice.cfg=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+H:\Development\TreeBldrv3.3\TreeBldrv33.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCT232.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\Development\TreeBldrv3.3\ice.exe=$(AppPath)
+H:\Development\TreeBldrv3.3\legacylogin.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\ldaphdlr.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\ldapsdk.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\ldapssl.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\ldapx.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\ldif.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\icenativ.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\ice.cfg=$(AppPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+H:\Development\TreeBldrv3.3\TreeBldrv33.exe=No
+H:\Development\TreeBldrv3.3\ice.exe=No
+H:\Development\TreeBldrv3.3\ldaphdlr.dll=No
+H:\Development\TreeBldrv3.3\ldif.dll=No
+H:\Development\TreeBldrv3.3\icenativ.dll=No
+H:\Development\TreeBldrv3.3\ice.cfg=No
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=
+Title=TreeBuilder33
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=TreeBuilder33
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|TreeBuilder33]
+Icon1=TreeBldrv33.exe
+Title1=TreeBuilder33
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=H:\Development\TreeBldrv3.3\Package
+ProjectFolder=H:\Development\TreeBldrv3.3
+ServerSideCab=
+File1=H:\Development\TreeBldrv3.3\Package\setup.exe
+File2=H:\Development\TreeBldrv3.3\Package\Setup.Lst
+File3=H:\Development\TreeBldrv3.3\Package\TreeBldrv33.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Development\TreeBldrv3.3\Package
+
+[Package|Standard Setup Package 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 4|Files Found]
+
+[Package|Standard Setup Package 4|Files Released]
+
+[Package|Standard Setup Package 4|Missing Dependency Information]
+G:\Development\TreeBldrv3.3\ice.exe=
+G:\Development\TreeBldrv3.3\icenativ.dll=
+G:\Development\TreeBldrv3.3\ldaphdlr.dll=
+G:\Development\TreeBldrv3.3\ldapsdk.dll=
+G:\Development\TreeBldrv3.3\ldapssl.dll=
+G:\Development\TreeBldrv3.3\ldapx.dll=
+G:\Development\TreeBldrv3.3\ldif.dll=
+G:\Development\TreeBldrv3.3\legacylogin.dll=
+
+[Package|Standard Setup Package 4|Out-of-Date Dependency Information]
+C:\WINNT\system32\TABCTL32.OCX=
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\COMCTL32.OCX=
+C:\WINNT\system32\comdlg32.ocx=
+
+[Package|Standard Setup Package 4|Files Added]
+G:\Development\TreeBldrv3.3\ice.cfg=
+G:\Development\TreeBldrv3.3\ice.exe=
+G:\Development\TreeBldrv3.3\icenativ.dll=
+G:\Development\TreeBldrv3.3\ldaphdlr.dll=
+G:\Development\TreeBldrv3.3\ldapsdk.dll=
+G:\Development\TreeBldrv3.3\ldapssl.dll=
+G:\Development\TreeBldrv3.3\ldapx.dll=
+G:\Development\TreeBldrv3.3\ldif.dll=
+G:\Development\TreeBldrv3.3\legacylogin.dll=
+
+[Package|Standard Setup Package 4|Files Removed]
+
+[Package|Standard Setup Package 4|Files In Project]
+G:\Development\TreeBldrv3.3\TreeBldrv33.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\comdlg32.ocx=Yes
+C:\WINNT\system32\MSCOMM32.OCX=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\COMCT232.OCX=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\Development\TreeBldrv3.3\ice.cfg=Yes
+G:\Development\TreeBldrv3.3\ice.exe=Yes
+G:\Development\TreeBldrv3.3\icenativ.dll=Yes
+G:\Development\TreeBldrv3.3\ldaphdlr.dll=Yes
+G:\Development\TreeBldrv3.3\ldapsdk.dll=Yes
+G:\Development\TreeBldrv3.3\ldapssl.dll=Yes
+G:\Development\TreeBldrv3.3\ldapx.dll=Yes
+G:\Development\TreeBldrv3.3\ldif.dll=Yes
+G:\Development\TreeBldrv3.3\legacylogin.dll=Yes
+
+[Package|Standard Setup Package 4|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 4|Install Locations]
+G:\Development\TreeBldrv3.3\TreeBldrv33.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\Development\TreeBldrv3.3\ice.cfg=$(AppPath)
+G:\Development\TreeBldrv3.3\ice.exe=$(AppPath)
+G:\Development\TreeBldrv3.3\icenativ.dll=$(AppPath)
+G:\Development\TreeBldrv3.3\ldaphdlr.dll=$(AppPath)
+G:\Development\TreeBldrv3.3\ldapsdk.dll=$(WinSysPath)
+G:\Development\TreeBldrv3.3\ldapssl.dll=$(WinSysPath)
+G:\Development\TreeBldrv3.3\ldapx.dll=$(WinSysPath)
+G:\Development\TreeBldrv3.3\ldif.dll=$(AppPath)
+G:\Development\TreeBldrv3.3\legacylogin.dll=$(WinSysPath)
+
+[Package|Standard Setup Package 4|Configure Shared Files]
+Applicable=Yes
+G:\Development\TreeBldrv3.3\TreeBldrv33.exe=No
+G:\Development\TreeBldrv3.3\ice.cfg=No
+G:\Development\TreeBldrv3.3\ice.exe=No
+G:\Development\TreeBldrv3.3\icenativ.dll=No
+G:\Development\TreeBldrv3.3\ldaphdlr.dll=No
+G:\Development\TreeBldrv3.3\ldif.dll=No
+
+[Package|Standard Setup Package 4|Distribution]
+Type=single
+Size=
+Title=TreeBuilder33
+
+[Package|Standard Setup Package 4|IconGroups]
+Group0=TreeBuilder33
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 4|TreeBuilder33]
+Icon1=TreeBldrv33.exe
+Title1=TreeBuilder33
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 4|Package]
+PackageFolder=G:\Development\TreeBldrv3.3\Package
+ProjectFolder=G:\Development\TreeBldrv3.3
+ServerSideCab=
+File1=G:\Development\TreeBldrv3.3\Package\setup.exe
+File2=G:\Development\TreeBldrv3.3\Package\Setup.Lst
+File3=G:\Development\TreeBldrv3.3\Package\TreeBldrv33.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 5|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Development\TreeBldrv3.3\Package
+
+[Package|Standard Setup Package 5|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 5|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 5|Files Found]
+
+[Package|Standard Setup Package 5|Files Released]
+
+[Package|Standard Setup Package 5|Missing Dependency Information]
+E:\Development\TreeBldrv3.3\ice.exe=
+E:\Development\TreeBldrv3.3\icenativ.dll=
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=
+E:\Development\TreeBldrv3.3\ldapsdk.dll=
+E:\Development\TreeBldrv3.3\ldapssl.dll=
+E:\Development\TreeBldrv3.3\ldapx.dll=
+E:\Development\TreeBldrv3.3\ldif.dll=
+E:\Development\TreeBldrv3.3\legacylogin.dll=
+
+[Package|Standard Setup Package 5|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\Tabctl32.ocx=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM32\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM32\Comdlg32.ocx=
+
+[Package|Standard Setup Package 5|Files Added]
+E:\Development\TreeBldrv3.3\ice.cfg=
+E:\Development\TreeBldrv3.3\ice.exe=
+E:\Development\TreeBldrv3.3\icenativ.dll=
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=
+E:\Development\TreeBldrv3.3\ldapsdk.dll=
+E:\Development\TreeBldrv3.3\ldapssl.dll=
+E:\Development\TreeBldrv3.3\ldapx.dll=
+E:\Development\TreeBldrv3.3\ldif.dll=
+E:\Development\TreeBldrv3.3\legacylogin.dll=
+
+[Package|Standard Setup Package 5|Files Removed]
+
+[Package|Standard Setup Package 5|Files In Project]
+E:\Development\TreeBldrv3.3\TreeBldrv33.exe=Yes
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\Comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM32\Mscomm32.ocx=Yes
+C:\WINDOWS\SYSTEM32\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM32\COMCT232.OCX=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\Tabctl32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Development\TreeBldrv3.3\ice.cfg=Yes
+E:\Development\TreeBldrv3.3\ice.exe=Yes
+E:\Development\TreeBldrv3.3\icenativ.dll=Yes
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=Yes
+E:\Development\TreeBldrv3.3\ldapsdk.dll=Yes
+E:\Development\TreeBldrv3.3\ldapssl.dll=Yes
+E:\Development\TreeBldrv3.3\ldapx.dll=Yes
+E:\Development\TreeBldrv3.3\ldif.dll=Yes
+E:\Development\TreeBldrv3.3\legacylogin.dll=Yes
+
+[Package|Standard Setup Package 5|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 5|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 5|Install Locations]
+E:\Development\TreeBldrv3.3\TreeBldrv33.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Mscomm32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\Tabctl32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Development\TreeBldrv3.3\ice.cfg=$(AppPath)
+E:\Development\TreeBldrv3.3\ice.exe=$(AppPath)
+E:\Development\TreeBldrv3.3\icenativ.dll=$(AppPath)
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=$(AppPath)
+E:\Development\TreeBldrv3.3\ldapsdk.dll=$(WinSysPath)
+E:\Development\TreeBldrv3.3\ldapssl.dll=$(WinSysPath)
+E:\Development\TreeBldrv3.3\ldapx.dll=$(WinSysPath)
+E:\Development\TreeBldrv3.3\ldif.dll=$(AppPath)
+E:\Development\TreeBldrv3.3\legacylogin.dll=$(WinSysPath)
+
+[Package|Standard Setup Package 5|Configure Shared Files]
+Applicable=Yes
+E:\Development\TreeBldrv3.3\TreeBldrv33.exe=No
+E:\Development\TreeBldrv3.3\ice.cfg=No
+E:\Development\TreeBldrv3.3\ice.exe=No
+E:\Development\TreeBldrv3.3\icenativ.dll=No
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=No
+E:\Development\TreeBldrv3.3\ldif.dll=No
+
+[Package|Standard Setup Package 5|Distribution]
+Type=single
+Size=
+Title=TreeBuilder33
+
+[Package|Standard Setup Package 5|IconGroups]
+Group0=TreeBuilder33
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 5|TreeBuilder33]
+Icon1=TreeBldrv33.exe
+Title1=TreeBuilder33
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 5|Package]
+PackageFolder=E:\Development\TreeBldrv3.3\Package
+ProjectFolder=E:\Development\TreeBldrv3.3
+ServerSideCab=
+File1=E:\Development\TreeBldrv3.3\Package\setup.exe
+File2=E:\Development\TreeBldrv3.3\Package\Setup.Lst
+File3=E:\Development\TreeBldrv3.3\Package\TreeBldrv33.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 6|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Development\TreeBldrv3.3\Package
+
+[Package|Standard Setup Package 6|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 6|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 6|Files Found]
+
+[Package|Standard Setup Package 6|Files Released]
+
+[Package|Standard Setup Package 6|Missing Dependency Information]
+E:\Development\TreeBldrv3.3\legacylogin.dll=
+E:\Development\TreeBldrv3.3\icenativ.dll=
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=
+E:\Development\TreeBldrv3.3\ldapsdk.dll=
+E:\Development\TreeBldrv3.3\ldapssl.dll=
+E:\Development\TreeBldrv3.3\ldapx.dll=
+E:\Development\TreeBldrv3.3\ldif.dll=
+
+[Package|Standard Setup Package 6|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\TABCTL32.OCX=
+
+[Package|Standard Setup Package 6|Files Added]
+E:\Development\TreeBldrv3.3\legacylogin.dll=
+E:\Development\TreeBldrv3.3\icenativ.dll=
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=
+E:\Development\TreeBldrv3.3\ldapsdk.dll=
+E:\Development\TreeBldrv3.3\ldapssl.dll=
+E:\Development\TreeBldrv3.3\ldapx.dll=
+E:\Development\TreeBldrv3.3\ldif.dll=
+E:\TreeBuilder\TreeBuilderReadme.html=
+
+[Package|Standard Setup Package 6|Files Removed]
+
+[Package|Standard Setup Package 6|Files In Project]
+E:\Development\TreeBldrv3.3\TreeBldrv33.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Development\TreeBldrv3.3\legacylogin.dll=Yes
+E:\Development\TreeBldrv3.3\icenativ.dll=Yes
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=Yes
+E:\Development\TreeBldrv3.3\ldapsdk.dll=Yes
+E:\Development\TreeBldrv3.3\ldapssl.dll=Yes
+E:\Development\TreeBldrv3.3\ldapx.dll=Yes
+E:\Development\TreeBldrv3.3\ldif.dll=Yes
+E:\TreeBuilder\TreeBuilderReadme.html=Yes
+
+[Package|Standard Setup Package 6|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 6|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 6|Install Locations]
+E:\Development\TreeBldrv3.3\TreeBldrv33.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Development\TreeBldrv3.3\legacylogin.dll=$(WinSysPath)
+E:\Development\TreeBldrv3.3\icenativ.dll=$(AppPath)
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=$(AppPath)
+E:\Development\TreeBldrv3.3\ldapsdk.dll=$(WinSysPath)
+E:\Development\TreeBldrv3.3\ldapssl.dll=$(WinSysPath)
+E:\Development\TreeBldrv3.3\ldapx.dll=$(WinSysPath)
+E:\Development\TreeBldrv3.3\ldif.dll=$(AppPath)
+E:\TreeBuilder\TreeBuilderReadme.html=$(AppPath)
+
+[Package|Standard Setup Package 6|Configure Shared Files]
+Applicable=Yes
+E:\Development\TreeBldrv3.3\TreeBldrv33.exe=No
+E:\Development\TreeBldrv3.3\icenativ.dll=No
+E:\Development\TreeBldrv3.3\ldaphdlr.dll=No
+E:\Development\TreeBldrv3.3\ldif.dll=No
+E:\TreeBuilder\TreeBuilderReadme.html=No
+
+[Package|Standard Setup Package 6|Distribution]
+Type=single
+Size=
+Title=TreeBuilder33
+
+[Package|Standard Setup Package 6|IconGroups]
+Group0=TreeBuilder33
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 6|TreeBuilder33]
+Icon1=TreeBldrv33.exe
+Title1=TreeBuilder33
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 6|Package]
+PackageFolder=E:\Development\TreeBldrv3.3\Package
+ProjectFolder=E:\Development\TreeBldrv3.3
+ServerSideCab=
+File1=E:\Development\TreeBldrv3.3\Package\setup.exe
+File2=E:\Development\TreeBldrv3.3\Package\Setup.Lst
+File3=E:\Development\TreeBldrv3.3\Package\TreeBldrv33.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 7|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=H:\Development\TreeBldrv3.3\Package
+
+[Package|Standard Setup Package 7|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 7|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 7|Files Found]
+
+[Package|Standard Setup Package 7|Files Released]
+
+[Package|Standard Setup Package 7|Missing Dependency Information]
+H:\Development\TreeBldrv3.3\addin\delim.dll=
+H:\Development\TreeBldrv3.3\addin\nmasmsg.dll=
+H:\Development\TreeBldrv3.3\addin\nssl.dll=
+
+[Package|Standard Setup Package 7|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 7|Files Added]
+H:\Development\TreeBldrv3.3\addin\delim.dll=
+H:\Development\TreeBldrv3.3\addin\GAMSWrap.dll=
+H:\Development\TreeBldrv3.3\addin\ice.cfg=
+H:\Development\TreeBldrv3.3\addin\ice.exe=
+H:\Development\TreeBldrv3.3\addin\icenativ.dll=
+H:\Development\TreeBldrv3.3\addin\jncpv2.dll=
+H:\Development\TreeBldrv3.3\addin\ldaphdlr.dll=
+H:\Development\TreeBldrv3.3\addin\ldapsdk.dll=
+H:\Development\TreeBldrv3.3\addin\ldapssl.dll=
+H:\Development\TreeBldrv3.3\addin\ldapx.dll=
+H:\Development\TreeBldrv3.3\addin\ldif.dll=
+H:\Development\TreeBldrv3.3\addin\legacylogin.dll=
+H:\Development\TreeBldrv3.3\addin\nmas.dll=
+H:\Development\TreeBldrv3.3\addin\nmasmsg.dll=
+H:\Development\TreeBldrv3.3\addin\NMASWrap.dll=
+H:\Development\TreeBldrv3.3\addin\nssl.dll=
+H:\Development\TreeBldrv3.3\addin\PKIWrap.dll=
+H:\Development\TreeBldrv3.3\addin\setContextNDSReporting.dll=
+
+[Package|Standard Setup Package 7|Files Removed]
+
+[Package|Standard Setup Package 7|Files In Project]
+H:\Development\TreeBldrv3.3\TreeBldrv33.exe=Yes
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\SYSTEM32\comdlg32.ocx=Yes
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCTL32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCT232.OCX=Yes
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINNT\SYSTEM32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+H:\Development\TreeBldrv3.3\addin\delim.dll=Yes
+H:\Development\TreeBldrv3.3\addin\GAMSWrap.dll=Yes
+H:\Development\TreeBldrv3.3\addin\ice.cfg=Yes
+H:\Development\TreeBldrv3.3\addin\ice.exe=Yes
+H:\Development\TreeBldrv3.3\addin\icenativ.dll=Yes
+H:\Development\TreeBldrv3.3\addin\jncpv2.dll=Yes
+H:\Development\TreeBldrv3.3\addin\ldaphdlr.dll=Yes
+H:\Development\TreeBldrv3.3\addin\ldapsdk.dll=Yes
+H:\Development\TreeBldrv3.3\addin\ldapssl.dll=Yes
+H:\Development\TreeBldrv3.3\addin\ldapx.dll=Yes
+H:\Development\TreeBldrv3.3\addin\ldif.dll=Yes
+H:\Development\TreeBldrv3.3\addin\legacylogin.dll=Yes
+H:\Development\TreeBldrv3.3\addin\nmas.dll=Yes
+H:\Development\TreeBldrv3.3\addin\nmasmsg.dll=Yes
+H:\Development\TreeBldrv3.3\addin\NMASWrap.dll=Yes
+H:\Development\TreeBldrv3.3\addin\nssl.dll=Yes
+H:\Development\TreeBldrv3.3\addin\PKIWrap.dll=Yes
+H:\Development\TreeBldrv3.3\addin\setContextNDSReporting.dll=Yes
+
+[Package|Standard Setup Package 7|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 7|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 7|Install Locations]
+H:\Development\TreeBldrv3.3\TreeBldrv33.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCT232.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+H:\Development\TreeBldrv3.3\addin\delim.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\GAMSWrap.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\ice.cfg=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\ice.exe=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\icenativ.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\jncpv2.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\ldaphdlr.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\ldapsdk.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\addin\ldapssl.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\addin\ldapx.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\addin\ldif.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\legacylogin.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\addin\nmas.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\nmasmsg.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\addin\NMASWrap.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\nssl.dll=$(WinSysPath)
+H:\Development\TreeBldrv3.3\addin\PKIWrap.dll=$(AppPath)
+H:\Development\TreeBldrv3.3\addin\setContextNDSReporting.dll=$(AppPath)
+
+[Package|Standard Setup Package 7|Configure Shared Files]
+Applicable=Yes
+H:\Development\TreeBldrv3.3\TreeBldrv33.exe=No
+H:\Development\TreeBldrv3.3\addin\delim.dll=No
+H:\Development\TreeBldrv3.3\addin\GAMSWrap.dll=No
+H:\Development\TreeBldrv3.3\addin\ice.cfg=No
+H:\Development\TreeBldrv3.3\addin\ice.exe=No
+H:\Development\TreeBldrv3.3\addin\icenativ.dll=No
+H:\Development\TreeBldrv3.3\addin\jncpv2.dll=No
+H:\Development\TreeBldrv3.3\addin\ldaphdlr.dll=No
+H:\Development\TreeBldrv3.3\addin\ldif.dll=No
+H:\Development\TreeBldrv3.3\addin\nmas.dll=No
+H:\Development\TreeBldrv3.3\addin\NMASWrap.dll=No
+H:\Development\TreeBldrv3.3\addin\PKIWrap.dll=No
+H:\Development\TreeBldrv3.3\addin\setContextNDSReporting.dll=No
+
+[Package|Standard Setup Package 7|Distribution]
+Type=single
+Size=
+Title=TreeBuilder33
+
+[Package|Standard Setup Package 7|IconGroups]
+Group0=TreeBuilder33
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 7|TreeBuilder33]
+Icon1=TreeBldrv33.exe
+Title1=TreeBuilder33
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 7|Package]
+PackageFolder=H:\Development\TreeBldrv3.3\Package
+ProjectFolder=H:\Development\TreeBldrv3.3
+ServerSideCab=
+File1=H:\Development\TreeBldrv3.3\Package\setup.exe
+File2=H:\Development\TreeBldrv3.3\Package\Setup.Lst
+File3=H:\Development\TreeBldrv3.3\Package\TreeBldrv33.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|TreeBuilder34|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\P\Development\TreeBldrv3.4\Package
+
+[Package|TreeBuilder34|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TreeBuilder34|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TreeBuilder34|Files Found]
+
+[Package|TreeBuilder34|Files Released]
+
+[Package|TreeBuilder34|Missing Dependency Information]
+C:\Program Files\Mercury Interactive\WinRunner\arch\Mscomctl.ocx=
+G:\P\Development\TreeBldrv3.4\New_LDAP\dirload.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\icudt21.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\icuuc21.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\langmani.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\nmas.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\schhdlr.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\xi18n.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\Xis11.dll=
+
+[Package|TreeBuilder34|Out-of-Date Dependency Information]
+
+[Package|TreeBuilder34|Files Added]
+G:\P\Development\TreeBldrv3.4\New_LDAP\delim.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\dirload.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\GAMSWrap.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.cfg=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.exe=
+G:\P\Development\TreeBldrv3.4\New_LDAP\icenativ.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\icudt21.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\icuuc21.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\jncpv2.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\langmani.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapadd.exe=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapdelete.exe=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldaphdlr.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodify.exe=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodrdn.exe=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapsdk.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapsearch.exe=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapssl.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapx.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldif.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\legacylogin.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\nmas.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\nmasmsg.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\NMASWrap.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\nssl.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\PKIWrap.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\run.bat=
+G:\P\Development\TreeBldrv3.4\New_LDAP\schhdlr.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\setContextNDSReporting.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\xi18n.dll=
+G:\P\Development\TreeBldrv3.4\New_LDAP\Xis11.dll=
+
+[Package|TreeBuilder34|Files Removed]
+
+[Package|TreeBuilder34|Files In Project]
+G:\P\Development\TreeBldrv3.4\TreeBldrv34.exe=Yes
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\SYSTEM32\comdlg32.ocx=Yes
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCTL32.OCX=Yes
+C:\WINNT\SYSTEM32\COMCT232.OCX=Yes
+C:\Program Files\Mercury Interactive\WinRunner\arch\Mscomctl.ocx=Yes
+C:\WINNT\SYSTEM32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\delim.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\dirload.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\GAMSWrap.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.cfg=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.exe=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\icenativ.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\icudt21.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\icuuc21.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\jncpv2.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\langmani.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapadd.exe=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapdelete.exe=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldaphdlr.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodify.exe=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodrdn.exe=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapsdk.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapsearch.exe=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapssl.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapx.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldif.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\legacylogin.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\nmas.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\nmasmsg.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\NMASWrap.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\nssl.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\PKIWrap.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\run.bat=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\schhdlr.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\setContextNDSReporting.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\xi18n.dll=Yes
+G:\P\Development\TreeBldrv3.4\New_LDAP\Xis11.dll=Yes
+
+[Package|TreeBuilder34|Configure Registry Files]
+Applicable=No
+
+[Package|TreeBuilder34|Configure Remote Servers]
+Applicable=No
+
+[Package|TreeBuilder34|Install Locations]
+G:\P\Development\TreeBldrv3.4\TreeBldrv34.exe=$(AppPath)
+C:\WINNT\SYSTEM32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\SYSTEM32\COMCT232.OCX=$(WinSysPath)
+C:\Program Files\Mercury Interactive\WinRunner\arch\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\delim.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\dirload.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\GAMSWrap.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.cfg=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.exe=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\icenativ.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\icudt21.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\icuuc21.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\jncpv2.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\langmani.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapadd.exe=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapdelete.exe=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldaphdlr.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodify.exe=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodrdn.exe=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapsdk.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapsearch.exe=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapssl.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapx.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldif.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\legacylogin.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\nmas.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\nmasmsg.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\NMASWrap.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\nssl.dll=$(WinSysPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\PKIWrap.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\run.bat=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\schhdlr.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\setContextNDSReporting.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\xi18n.dll=$(AppPath)
+G:\P\Development\TreeBldrv3.4\New_LDAP\Xis11.dll=$(WinSysPath)
+
+[Package|TreeBuilder34|Configure Shared Files]
+Applicable=Yes
+G:\P\Development\TreeBldrv3.4\TreeBldrv34.exe=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\delim.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\dirload.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\GAMSWrap.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.cfg=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ice.exe=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\icenativ.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\jncpv2.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\langmani.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapadd.exe=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapdelete.exe=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldaphdlr.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodify.exe=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapmodrdn.exe=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldapsearch.exe=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\ldif.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\NMASWrap.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\PKIWrap.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\run.bat=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\schhdlr.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\setContextNDSReporting.dll=No
+G:\P\Development\TreeBldrv3.4\New_LDAP\xi18n.dll=No
+
+[Package|TreeBuilder34|Distribution]
+Type=single
+Size=
+Title=TreeBuilder34
+
+[Package|TreeBuilder34|Package]
+PackageFolder=G:\P\Development\TreeBldrv3.4\Package
+ProjectFolder=G:\P\Development\TreeBldrv3.4
+ServerSideCab=
+File1=G:\P\Development\TreeBldrv3.4\Package\setup.exe
+File2=G:\P\Development\TreeBldrv3.4\Package\Setup.Lst
+File3=G:\P\Development\TreeBldrv3.4\Package\TreeBldrv34.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|TreeBuilder34|IconGroups]
+Group0=TreeBuilder34
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|TreeBuilder34|TreeBuilder34]
+Icon1=TreeBldrv34.exe
+Title1=TreeBuilder34
+StartIn1=$(AppPath)
+Key1=Icon1

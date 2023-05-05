@@ -1,0 +1,38 @@
+Novell Import Convert Export utility for Novell eDirectory  8.7 
+version: 10511.03 
+Copyright 2000 Novell, Inc.  All rights reserved.  Patent Pending.
+
+Usage: ice [<general options>]  [<schema options>] -S <source handler>
+           <src options> -D <destination handler> <dest options>
+
+For a list of options, type "ice -h options".
+For example command lines, type "ice -h examples".
+For more detailed help on a handler, type "ice -h <handler name>", where
+  <handler name> is one of: LDAP, LDIF, DELIM, LOAD, SCH
+Novell Import Convert Export utility for Novell eDirectory  8.7 
+version: 10511.03 
+Copyright 2000 Novell, Inc.  All rights reserved.  Patent Pending.
+
+Usage: ice [<general options>]  [<schema options>] -S <source handler>
+           <src options> -D <destination handler> <dest options>
+
+   General options: (All options are case sensitive)
+      [-e <error ldif file>] specify the LDIF output file for failed records
+      [-o]                   overwrite the existing log file
+      [-l <log file>]        specify the log file
+      [-v]                   run in verbose mode
+      [-b]                   do not pause the ICE console screen
+      [-c <URL>]             creation rules ( URL = 'file://<file>' )
+      [-s <URL>]             schema rules
+      [-p <URL>]             placement rules
+      [-h] or [-?]           command line help.
+
+   [-C <Schema Options>] (Specify only one)
+      [-a]                   Add Missing Schema
+      [-c <filename>]        Output schema differences to <filename>
+      [-n]                   Disable schema pre-checking
+
+For a list of options, type "ice -h options".
+For example command lines, type "ice -h examples".
+For more detailed help on a handler, type "ice -h <handler name>", where
+  <handler name> is one of: LDAP, LDIF, DELIM, LOAD, SCH

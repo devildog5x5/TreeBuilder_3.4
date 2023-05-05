@@ -1,0 +1,12 @@
+dn: cn=TUser,o=Novell
+changetype: modify
+mail: TUser@thehansenfam.com
+uid: TUser
+givenName: Tom
+Language: ENGLISH
+title: Enginer Grade I
+telephoneNumber: 801-888-2222
+sn: User
+facsimileTelephoneNumber: 801-888-1111
+description: This is a Description
+cn: TUser

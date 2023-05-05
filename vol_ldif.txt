@@ -1,0 +1,10 @@
+dn: cn=NSSVOL1,ou=PortalUserGrp1,ou=Users,ou=Portal,o=Novell
+changetype: add
+objectClass: volume
+objectClass: resource
+objectClass: top
+hostServer: cn=FIRETEAM_JULIETE,o=Novell
+hostResourceName: NSSVOL1
+cn: NSSVOL1
+ACL: 2#entry#[Root]#hostResourceName
+ACL: 2#entry#[Root]#hostServer
